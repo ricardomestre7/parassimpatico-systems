@@ -1,0 +1,77 @@
+{
+  "sistema": "NatureSystems",
+  "modulo": "Grandes Correntes Atmosféricas — Respiração Planetária",
+  "versao": "1.0",
+  "total_ventos": 4,
+  "filosofia": "Os ventos são o sistema respiratório da Terra. Eles transportam sementes, umidade, temperatura e informação sutil ao redor do globo. Conectar-se com os ventos é conectar-se com o pensamento e a mente do planeta.",
+  "ventos": [
+    {
+      "id": "V001",
+      "nome": "Ventos Alísios (Trade Winds)",
+      "direcao": "Leste para Oeste (Trópicos)",
+      "caracteristica": "Constantes, quentes e úmidos",
+      "funcao_planetaria": "Circulação da vida, trocas culturais e biológicas",
+      "frequencia_vibracional_Hz": 432,
+      "cor_energetica": "Amarelo Dourado",
+      "chakra_planetario": "Plexo Solar da Terra",
+      "simbolismo": "Fluxo constante, prosperidade, trocas, viagens",
+      "protocolo_nature": {
+        "nome": "Meditação do Fluxo Contínuo",
+        "pratica": "Sentar-se voltado para o Leste. Visualizar o vento dourado trazendo novas oportunidades e levando o estagnado.",
+        "duracao": "20 min",
+        "intencao": "Abrir-se para o fluxo da abundância universal"
+      }
+    },
+    {
+      "id": "V002",
+      "nome": "Ventos de Oeste (Westerlies)",
+      "direcao": "Oeste para Leste (Latitudes Médias)",
+      "caracteristica": "Variáveis, fortes, trazem tempestades",
+      "funcao_planetaria": "Mudança, transformação, movimento rápido",
+      "frequencia_vibracional_Hz": 528,
+      "cor_energetica": "Azul Índigo",
+      "chakra_planetario": "Terceiro Olho da Terra",
+      "simbolismo": "Transformação, inovação, quebra de padrões",
+      "protocolo_nature": {
+        "nome": "Respiração da Mudança",
+        "pratica": "Respiração rápida e rítmica (Bastrika) para gerar calor e movimento interno.",
+        "duracao": "15 min",
+        "intencao": "Romper estagnação e promover clareza"
+      }
+    },
+    {
+      "id": "V003",
+      "nome": "Ventos Polares (Polar Easterlies)",
+      "direcao": "Leste para Oeste (Polos)",
+      "caracteristica": "Frios, secos, densos",
+      "funcao_planetaria": "Preservação, cristalização, silêncio",
+      "frequencia_vibracional_Hz": 963,
+      "cor_energetica": "Branco Cristalino",
+      "chakra_planetario": "Coroa da Terra",
+      "simbolismo": "Sabedoria ancestral, pureza, quietude",
+      "protocolo_nature": {
+        "nome": "Meditação do Silêncio Polar",
+        "pratica": "Foco na respiração sutil e imperceptível. Visualizar uma paisagem de gelo e luz.",
+        "duracao": "30 min",
+        "intencao": "Acessar a sabedoria do silêncio interior"
+      }
+    },
+    {
+      "id": "V004",
+      "nome": "Monções (Monsoons)",
+      "direcao": "Sazonal (Oceano <-> Terra)",
+      "caracteristica": "Cíclicos, trazem chuvas torrenciais ou seca",
+      "funcao_planetaria": "Nutrição, fertilidade, ciclos de vida e morte",
+      "frequencia_vibracional_Hz": 417,
+      "cor_energetica": "Verde Esmeralda",
+      "chakra_planetario": "Coração da Terra",
+      "simbolismo": "Renovação emocional, limpeza profunda, fertilidade",
+      "protocolo_nature": {
+        "nome": "Respiração das Águas Aéreas",
+        "pratica": "Inspirar imaginando absorver umidade e vida; expirar liberando tensão e seca emocional.",
+        "duracao": "25 min",
+        "intencao": "Nutrir o coração e as emoções"
+      }
+    }
+  ]
+}

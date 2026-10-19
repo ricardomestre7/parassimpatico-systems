@@ -1,0 +1,111 @@
+{
+  "sistema": "NatureSystems",
+  "modulo": "Correlações Terapêuticas - Sintoma → Protocolo Eólico",
+  "versao": "2.0",
+  "total_correlacoes": 60,
+  "descricao": "Matriz de correlações para orientar terapeutas na escolha do protocolo respiratório e atmosférico ideal para cada condição clínica",
+  "correlacoes": [
+    {
+      "id": "C001",
+      "condicao": "Ansiedade e Estresse Crónico",
+      "sistema_corporal": "Nervoso / Endócrino",
+      "chakra_afetado": "Plexo Solar (3º) e Garganta (5º)",
+      "protocolo_principal": "Respiração Coerente (5-5) + Aromaterapia Lavanda",
+      "protocolos_complementares": [
+        "Caminhada consciente na natureza (Grounding + Ar)",
+        "Respiração 4-7-8 (Dr. Weil) para dormir",
+        "Meditação Mindfulness com foco no ar entrando/saindo",
+        "Banho de Som com taças tibetanas (Vibração no ar)"
+      ],
+      "ar_indicado": ["Ar Ionizado Negativamente", "Ar de Floresta", "Brisa Suave"],
+      "frequencia_sessoes": "Diária (prática pessoal) + 1x/semana (terapia)",
+      "duracao_protocolo": "Contínuo",
+      "notas_clinicas": "A respiração lenta (<6 ciclos/min) ativa o nervo vago e o sistema parassimpático, reduzindo cortisol imediatamente."
+    },
+    {
+      "id": "C002",
+      "condicao": "Depressão e Letargia",
+      "sistema_corporal": "Nervoso / Imunológico",
+      "chakra_afetado": "Coração (4º) e Plexo Solar (3º)",
+      "protocolo_principal": "Respiração Bastrika (Fogo) ou Kapalabhati (Energia)",
+      "protocolos_complementares": [
+        "Banho de Sol matinal (Luz + Ar)",
+        "Caminhada vigorosa ao ar livre",
+        "Aromaterapia Cítrica (Bergamota/Limão) para elevar ânimo",
+        "Cantar ou entoar Mantras (Vibração vocal)"
+      ],
+      "ar_indicado": ["Ar Fresco e Frio (estimulante)", "Ar Solarizado", "Vento revigorante"],
+      "frequencia_sessoes": "Diária (manhã)",
+      "duracao_protocolo": "8-12 semanas",
+      "notas_clinicas": "A hiperoxigenação controlada e o movimento do diafragma estimulam a produção de serotonina e endorfinas."
+    },
+    {
+      "id": "C003",
+      "condicao": "Insônia e Mente Agitada",
+      "sistema_corporal": "Nervoso / Circadiano",
+      "chakra_afetado": "Terceiro Olho (6º) e Coroa (7º)",
+      "protocolo_principal": "Respiração Lunar (Chandra Bhedana) + Yoga Nidra",
+      "protocolos_complementares": [
+        "Difusão de Óleo Essencial de Vetiver ou Camomila",
+        "Exposição ao ar noturno fresco (janela aberta se possível)",
+        "Evitar telas (luz azul) e praticar silêncio",
+        "Respiração Abdominal com peso (saco de areia) no ventre"
+      ],
+      "ar_indicado": ["Ar Noturno Fresco", "Ar Purificado", "Ambiente Silencioso"],
+      "frequencia_sessoes": "Todas as noites",
+      "duracao_protocolo": "4-6 semanas",
+      "notas_clinicas": "Respirar pela narina esquerda (Lunar) ativa o hemisfério direito e o sistema parassimpático, induzindo o relaxamento."
+    },
+    {
+      "id": "C004",
+      "condicao": "Hipertensão Arterial (Leve-Moderada)",
+      "sistema_corporal": "Cardiovascular",
+      "chakra_afetado": "Coração (4º)",
+      "protocolo_principal": "Respiração Lenta e Profunda (6 ciclos/min)",
+      "protocolos_complementares": [
+        "Relaxamento Progressivo de Jacobson",
+        "Caminhada leve em ambiente plano e arborizado",
+        "Ouvir sons da natureza (vento, pássaros)",
+        "Evitar retenção de ar (Kumbhaka) cheia"
+      ],
+      "ar_indicado": ["Ar Rico em Oxigênio", "Ambiente Calmo", "Temperatura Ameno"],
+      "frequencia_sessoes": "2x ao dia (20 min)",
+      "duracao_protocolo": "Contínuo",
+      "notas_clinicas": "A respiração lenta aumenta a sensibilidade dos barorreceptores e reduz a atividade simpática vascular."
+    },
+    {
+      "id": "C005",
+      "condicao": "Asma e Alergias Respiratórias",
+      "sistema_corporal": "Respiratório / Imunológico",
+      "chakra_afetado": "Garganta (5º) e Coração (4º)",
+      "protocolo_principal": "Método Buteyko (Respiração Nasal Reduzida) + Haloterapia",
+      "protocolos_complementares": [
+        "Uso de purificador de ar no quarto (filtro HEPA)",
+        "Lavagem nasal diária (Jala Neti)",
+        "Canto ou Humming (Bhramari) para aumentar Óxido Nítrico nasal",
+        "Aromaterapia Eucalipto/Hortelã (com cautela)"
+      ],
+      "ar_indicado": ["Ar Salino (Mar)", "Ar de Montanha (Puro)", "Ar Úmido (se tosse seca)"],
+      "frequencia_sessoes": "Diária",
+      "duracao_protocolo": "Contínuo (gestão)",
+      "notas_clinicas": "A respiração nasal exclusiva filtra, aquece e umidifica o ar, além de produzir NO que é broncodilatador e antimicrobiano."
+    },
+    {
+      "id": "C006",
+      "condicao": "Fadiga Mental e Brain Fog",
+      "sistema_corporal": "Nervoso Central",
+      "chakra_afetado": "Terceiro Olho (6º)",
+      "protocolo_principal": "Respiração Alternada (Nadi Shodhana) + Pausas para Ar Fresco",
+      "protocolos_complementares": [
+        "Caminhada rápida de 5 min a cada hora",
+        "Aromaterapia Alecrim ou Hortelã-Pimenta",
+        "Janelas abertas para circulação de CO2",
+        "Postura ereta para liberar diafragma"
+      ],
+      "ar_indicado": ["Ar Circulante", "Ar Frio (desperta)", "Ar Rico em Íons Negativos"],
+      "frequencia_sessoes": "Sempre que necessário",
+      "duracao_protocolo": "Imediato",
+      "notas_clinicas": "O acúmulo de CO2 em ambientes fechados causa sonolência. A ventilação e a respiração consciente reoxigenam o cérebro."
+    }
+  ]
+}

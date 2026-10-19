@@ -1,0 +1,17 @@
+{
+  "name": "Parassimpático Systems · SNA & Teoria Polivagal",
+  "short_name": "Parassimpático",
+  "description": "Modulação Vagal, Eixo Cérebro-Intestino e Decodificação Psicossomática · Safe Creative #2610157331452",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061318",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

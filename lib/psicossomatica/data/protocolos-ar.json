@@ -1,0 +1,55 @@
+{
+  "sistema": "NatureSystems",
+  "descricao": "Protocolos avançados de respiração e conexão atmosférica para reequilíbrio dos sistemas corporais e energéticos.",
+  "protocolos": [
+    {
+      "id": "P001",
+      "nome": "Detox Aéreo",
+      "objetivo": "Limpeza profunda das vias respiratórias e renovação celular",
+      "tipo": "cronograma",
+      "categoria": "Purificação",
+      "cronograma": [
+        {
+          "fase": "Fase 1: Abertura",
+          "foco": "Preparar os pulmões",
+          "qualidade_ar": "Fresco e Úmido",
+          "atividades": {
+            "manha": ["Jala Neti", "Respiração Profunda"],
+            "noite": ["Inalação de Vapor"]
+          }
+        },
+        {
+          "fase": "Fase 2: Expulsão",
+          "foco": "Eliminar toxinas",
+          "qualidade_ar": "Quente e Seco",
+          "atividades": {
+            "manha": ["Kapalabhati", "Exercício Aeróbico"],
+            "noite": ["Respiração Abdominal"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "nome": "Mente Clara",
+      "objetivo": "Reduzir o brain fog e aumentar a concentração",
+      "tipo": "rotina",
+      "categoria": "Foco Mental",
+      "rotina": {
+        "manha": ["Nadi Shodhana (10 min)", "Banho Frio"],
+        "tarde": ["Pausa para Respirar (3 min)"],
+        "noite": ["Meditação Mindfulness"]
+      }
+    },
+    {
+      "id": "P003",
+      "nome": "SOS Ansiedade",
+      "objetivo": "Acalmar o sistema nervoso em momentos de crise",
+      "tipo": "sos",
+      "categoria": "Equilíbrio Emocional",
+      "gatilho": "Sentimento de pânico ou respiração curta",
+      "acao_imediata": ["Respiração 4-7-8", "Expirar longamente", "Molhar o rosto com água fria"],
+      "mecanismo": "Ativação do nervo vago para reduzir a frequência cardíaca"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "sistema": "NatureSystems",
+  "modulo": "O Novo Modelo de Transformação e Cura — O Ar como Terapeuta",
+  "versao": "2.0",
+  "subtitulo": "Do Sopro ao Vendaval: Um Mapa Atmosférico da Consciência Humana",
+
+  "manifesto_do_modelo": {
+    "titulo": "O Ar Fala — E o Espírito Escuta",
+    "texto": "Durante séculos, a medicina focou no sólido e no líquido, esquecendo o invisível que sustenta a vida a cada segundo. Este modelo propõe que a atmosfera da Terra é um espelho exato da psique humana. Que curar a respiração é curar a ansiedade. Que contactar os ventos planetários é tocar os movimentos da alma. Que sentir a brisa é reconectar com a sutileza do ser. O ciclo do ar na Terra e o fluxo mental humano são o mesmo sistema em escalas diferentes. O Ar não precisa de ser curado por nós — nós precisamos de ser curados pelo Ar. Ele é o veículo da consciência (Pneuma/Prana). O terapeuta NatureSystems é o facilitador desta respiração universal.",
+    "principios_fundadores": [
+      "O Ar é o veículo da consciência e da informação vibracional",
+      "Cada camada atmosférica corresponde a um nível de sutilidade mental e espiritual no ser humano",
+      "Os ventos planetários são os rios de energia que movem o clima emocional do mundo e do indivíduo",
+      "A respiração é a ponte direta entre o corpo físico e os corpos sutis",
+      "A qualidade do ar (íons, prana) determina a qualidade do pensamento",
+      "A cura profunda requer espaço, leveza e circulação — física e mentalmente",
+      "A doença moderna é, em grande parte, uma doença de hipóxia celular e estagnação mental (ar viciado)"
+    ]
+  },
+
+  "modelo_camadas_correspondencia_completo": {
+    "titulo": "As 5 Correspondências Atmosféricas — Céu e Ser Humano",
+    "camadas": [
+      {
+        "camada_atmosfera": "Troposfera (onde ocorre o clima e a vida)",
+        "altitude": "0-12km",
+        "dimensao_humana": "Corpo Físico / Vitalidade Diária",
+        "corpo_humano": "Sistema Respiratório e Circulatório — a troca imediata",
+        "patologia_correspondente": "Fadiga, asma, rinite, depressão sazonal, sensação de peso",
+        "cura_correspondente": "Respiração consciente, ar puro, ionização negativa, caminhadas na natureza",
+        "frequencia": "174Hz",
+        "tempo_terapeutico": "Minutos a dias — o clima muda rapidamente"
+      },
+      {
+        "camada_atmosfera": "Estratosfera (Camada de Ozônio - Proteção)",
+        "altitude": "12-50km",
+        "dimensao_humana": "Campo Emocional / Limites e Proteção",
+        "corpo_humano": "Sistema Imunológico e Pele — a barreira contra o nocivo",
+        "patologia_correspondente": "Vulnerabilidade emocional, hipersensibilidade, 'pele fina', medo",
+        "cura_correspondente": "Fortalecimento do campo áurico, aromaterapia protetora, respiração de escudo",
+        "frequencia": "285Hz",
+        "tempo_terapeutico": "Semanas a meses"
+      },
+      {
+        "camada_atmosfera": "Mesosfera (Onde meteoros queimam - Fogo frio)",
+        "altitude": "50-85km",
+        "dimensao_humana": "Mente Concreta / Purificação de Padrões",
+        "corpo_humano": "Metabolismo Celular — a queima e transformação de energia",
+        "patologia_correspondente": "Pensamentos obsessivos, rigidez mental, 'burnout' mental",
+        "cura_correspondente": "Respiração de Fogo (Bastrika), técnicas de purificação intensa, jejum de ar (Kumbhaka)",
+        "frequencia": "396Hz",
+        "tempo_terapeutico": "Semanas — requer disciplina e intensidade"
+      },
+      {
+        "camada_atmosfera": "Termosfera (Ionosphere - Eletricidade e Auroras)",
+        "altitude": "85-600km",
+        "dimensao_humana": "Mente Superior / Intuição / Conexão Elétrica",
+        "corpo_humano": "Sistema Nervoso Central e Pineal — a antena receptora",
+        "patologia_correspondente": "Desconexão espiritual, falta de propósito, confusão mental, insônia elétrica",
+        "cura_correspondente": "Meditação, visualização de luz, frequências binaurais, conexão com o cosmo",
+        "frequencia": "528Hz",
+        "tempo_terapeutico": "Imediato a meses — o insight pode ser instantâneo"
+      },
+      {
+        "camada_atmosfera": "Exosfera (Fronteira com o Espaço)",
+        "altitude": ">600km",
+        "dimensao_humana": "Espírito / Unidade / O Vazio Fértil",
+        "corpo_humano": "Campo Quântico do Corpo — a não-localidade",
+        "patologia_correspondente": "Apego excessivo à matéria, medo da morte, perda da fé",
+        "cura_correspondente": "Silêncio profundo, respiração sutil (quase imperceptível), estado de Samadhi",
+        "frequencia": "963Hz",
+        "tempo_terapeutico": "Atemporal"
+      }
+    ]
+  }
+}

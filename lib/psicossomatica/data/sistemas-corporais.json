@@ -1,0 +1,109 @@
+{
+  "sistema": "NatureSystems",
+  "modulo": "Aplicações por Sistema Corporal",
+  "versao": "2.0",
+  "total_sistemas": 12,
+  "descricao": "Guia de aplicação do NatureSystems por sistema orgânico — correlações clínicas e protocolos respiratórios",
+  "sistemas_corporais": [
+    {
+      "sistema": "Cardiovascular",
+      "orgaos": ["Coração", "Artérias", "Veias", "Capilares"],
+      "ar_prioritario": "Ar Rico em Oxigênio (Floresta/Mar)",
+      "tecnicas": ["Coerência Cardíaca", "Respiração Lenta (4-6-4)", "Caminhada ao Ar Livre"],
+      "indicacoes": ["Hipertensão", "Palpitações", "Má circulação", "Ansiedade cardíaca"],
+      "contra": ["Retenção de ar forçada em hipertensão grave"],
+      "frequencia_Hz": 528,
+      "protocolo_referencia": "P003 (Coerência) + Aromaterapia Lavanda"
+    },
+    {
+      "sistema": "Digestivo / Hepático",
+      "orgaos": ["Estômago", "Intestinos", "Fígado", "Vesícula", "Pâncreas"],
+      "ar_prioritario": "Ar Puro de Montanha (Fresco)",
+      "tecnicas": ["Respiração Diafragmática Profunda", "Nauli Kriya (massagem abdominal)", "Agni Sara"],
+      "indicacoes": ["Constipação", "Digestão lenta", "Estresse visceral", "Fígado estagnado"],
+      "contra": ["Úlceras ativas (técnicas de compressão forte)"],
+      "frequencia_Hz": 417,
+      "protocolo_referencia": "P001 (Detox Aéreo) + Nauli Matinal"
+    },
+    {
+      "sistema": "Osteomuscular",
+      "orgaos": ["Ossos", "Articulações", "Músculos", "Tendões", "Ligamentos"],
+      "ar_prioritario": "Ar Quente e Seco (Deserto/Sauna Seca)",
+      "tecnicas": ["Respiração com Movimento (Vinyasa)", "Relaxamento Progressivo", "Banho de Ar"],
+      "indicacoes": ["Tensão muscular", "Rigidez articular", "Dores crônicas", "Fibromialgia"],
+      "contra": ["Exercícios intensos em crise aguda"],
+      "frequencia_Hz": 174,
+      "protocolo_referencia": "C005 (Relaxamento) + Movimento Consciente"
+    },
+    {
+      "sistema": "Nervoso",
+      "orgaos": ["Cérebro", "Medula espinal", "Nervos periféricos", "Sistema autonômico"],
+      "ar_prioritario": "Ar Ionizado Negativamente (Cachoeira/Pós-chuva)",
+      "tecnicas": ["Nadi Shodhana (Respiração Alternada)", "Bhramari (Respiração da Abelha)", "Meditação Mindfulness"],
+      "indicacoes": ["Ansiedade", "Insônia", "Estresse crônico", "Enxaqueca", "Fadiga mental"],
+      "contra": ["Hiperventilação em pânico"],
+      "frequencia_Hz": 852,
+      "protocolo_referencia": "P002 (Mente Clara) + Nadi Shodhana"
+    },
+    {
+      "sistema": "Endócrino",
+      "orgaos": ["Hipófise", "Tireoide", "Suprarrenais", "Pâncreas endócrino", "Gônadas"],
+      "ar_prioritario": "Ar Solarizado (Exposição solar segura)",
+      "tecnicas": ["Ujjayi Pranayama (Respiração Vitoriosa)", "Kapalabhati (Estimulação)", "Visualização de Luz"],
+      "indicacoes": ["Hipotireoidismo (estimulação)", "Fadiga adrenal (relaxamento)", "Desequilíbrio hormonal"],
+      "contra": ["Kapalabhati em hipertireoidismo ou gravidez"],
+      "frequencia_Hz": 528,
+      "protocolo_referencia": "C009 (Vitalidade) + Banho de Sol"
+    },
+    {
+      "sistema": "Imunológico",
+      "orgaos": ["Linfonodos", "Baço", "Timo", "Medula óssea", "Mucosa respiratória"],
+      "ar_prioritario": "Ar com Fitoncidas (Banho de Floresta/Shinrin-yoku)",
+      "tecnicas": ["Wim Hof (adaptado/moderado)", "Respiração 4-7-8", "Aromaterapia (Tea Tree/Eucalipto)"],
+      "indicacoes": ["Imunidade baixa", "Alergias respiratórias", "Recuperação pós-viral"],
+      "contra": ["Técnicas intensas durante febre alta"],
+      "frequencia_Hz": 285,
+      "protocolo_referencia": "P004 (Escudo Aéreo)"
+    },
+    {
+      "sistema": "Renal / Urinário",
+      "orgaos": ["Rins", "Ureter", "Bexiga", "Uretra"],
+      "ar_prioritario": "Ar Úmido e Morno",
+      "tecnicas": ["Respiração Renal (foco nas costas)", "Relaxamento Profundo", "Aquecimento lombar"],
+      "indicacoes": ["Medo/Insegurança (MTC)", "Frio nos rins", "Cansaço profundo"],
+      "contra": ["Frio excessivo"],
+      "frequencia_Hz": 396,
+      "protocolo_referencia": "Respiração Lombar + Calor"
+    },
+    {
+      "sistema": "Respiratório",
+      "orgaos": ["Pulmões", "Brônquios", "Faringe", "Seios paranasais"],
+      "ar_prioritario": "Ar Salino (Marítimo/Haloterapia) ou Eucalipto",
+      "tecnicas": ["Reeducação Respiratória", "Expansão Torácica", "Limpeza Nasal (Jala Neti - Ar)"],
+      "indicacoes": ["Asma", "Bronquite", "Sinusite", "Capacidade pulmonar reduzida"],
+      "contra": ["Ar muito frio ou poluído"],
+      "frequencia_Hz": 741,
+      "protocolo_referencia": "P001 (Detox Aéreo) + Haloterapia"
+    },
+    {
+      "sistema": "Reprodutivo",
+      "orgaos": ["Útero", "Ovários", "Próstata", "Testículos"],
+      "ar_prioritario": "Ar Perfumado (Ylang Ylang/Jasmim)",
+      "tecnicas": ["Respiração Ovariana/Testicular", "Movimento Pélvico com Sopro", "Tantra Breathing"],
+      "indicacoes": ["Bloqueios criativos", "Libido baixa", "TPM", "Menopausa"],
+      "contra": ["Hiperventilação excessiva"],
+      "frequencia_Hz": 417,
+      "protocolo_referencia": "Respiração Pélvica + Aromaterapia"
+    },
+    {
+      "sistema": "Cutâneo / Tegumentar",
+      "orgaos": ["Pele", "Cabelos", "Unhas"],
+      "ar_prioritario": "Ar Fresco e Ventilado (Banho de Ar)",
+      "tecnicas": ["Respiração Cutânea (Visualização)", "Escovação a Seco (ativar circulação)", "Exposição ao Vento Suave"],
+      "indicacoes": ["Pele opaca", "Acne (oxigenação)", "Eczema (redução de estresse)"],
+      "contra": ["Vento forte em pele ressecada"],
+      "frequencia_Hz": 639,
+      "protocolo_referencia": "Banho de Ar (Air Bathing) Diário"
+    }
+  ]
+}
